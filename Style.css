@@ -1,0 +1,56 @@
+#MainCard{
+    background-color: black;
+    opacity: 70%;
+    width: 400px;
+    height: 700px;
+    position: absolute;
+    margin: 0;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+#Por{
+    position: absolute;
+    opacity: 130%;
+    size: 0vh;
+    width: 370px;
+    height: 370px;
+    top: 38%;
+    left: 50%;
+    transform: translate(-50%, -62%);
+}
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    position: absolute;
+    top: 55%;
+    left: 7%;
+}
+body{
+    background-image: url(https://images.alphacoders.com/131/1319547.png);
+}
+p{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 5.5%;
+    text-align: center;
+    top: 62.5%;
+    position: absolute;
+    
+}
+a{
+    background-color: white;
+    color: black;
+    border: none;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    cursor: pointer;
+    font-size: 16px;
+    padding: 13px 15px;
+    text-decoration: none;
+    border-radius: 8%;
+    position: absolute;
+    top: 91%;
+    left: 5%;
+}
